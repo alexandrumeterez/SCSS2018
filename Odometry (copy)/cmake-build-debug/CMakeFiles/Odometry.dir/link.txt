@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Odometry.dir/main.cpp.o CMakeFiles/Odometry.dir/AccelerometerData.cpp.o CMakeFiles/Odometry.dir/UDPServer.cpp.o  -o Odometry 
